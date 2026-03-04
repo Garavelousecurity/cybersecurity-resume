@@ -1,5 +1,5 @@
 
-# Spyridoula Gkaraveloy Dayannis
+# Spyridoula Gkaravelou Dayannis
 
 📍 Greece (Relocating to USA)
 📧 [roulagaravelou@gmail.com](mailto:roulagaravelou@gmail.com)
