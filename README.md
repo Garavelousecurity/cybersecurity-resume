@@ -39,30 +39,29 @@ Cybersecurity-focused IT professional with extensive experience in technical sup
 
 # Cybersecurity Projects
 
-### Security Incident Investigation
+Security Incident Investigation
 
-Analyzed suspicious login activity and network behavior to identify potential brute-force attacks and unauthorized access attempts.
+Investigation of a simulated cybersecurity incident including log analysis, threat identification, and incident response planning.
 
-### SIEM Log Investigation
+SIEM Log Investigation
 
-Investigated simulated SIEM logs to detect abnormal login activity and possible security incidents.
+Analysis of SIEM logs to detect suspicious activity and potential security threats.
 
-### Phishing Email Analysis
+Threat Hunting Investigation
 
-Examined phishing email indicators including malicious domains and social engineering techniques.
+Proactive threat hunting to identify hidden threats and indicators of compromise within network activity.
 
-### Linux Log Analysis
+Network Port Scan Analysis
 
-Analyzed authentication logs to identify suspicious login attempts and potential compromise indicators.
+Investigation of exposed services and potential attack surfaces using network scanning techniques.
 
-### Network Port Scan Analysis
+Security Risk Assessment
 
-Investigated open ports and potential attack surfaces through network scan analysis.
+Evaluation of organizational assets, threats, vulnerabilities, and mitigation strategies.
 
-### Threat Detection Investigation
+GDPR Security Compliance
 
-Analyzed suspicious outbound network traffic and identified potential command-and-control communication.
-
+Security assessment focusing on data protection and compliance with GDPR requirements.
 ---
 
 # Professional Experience
