@@ -39,29 +39,30 @@ Cybersecurity-focused IT professional with extensive experience in technical sup
 
 # Cybersecurity Projects
 
-Security Incident Investigation
+# Security Incident Investigation
 
 Investigation of a simulated cybersecurity incident including log analysis, threat identification, and incident response planning.
 
-SIEM Log Investigation
+# SIEM Log Investigation
 
 Analysis of SIEM logs to detect suspicious activity and potential security threats.
 
-Threat Hunting Investigation
+# Threat Hunting Investigation
 
 Proactive threat hunting to identify hidden threats and indicators of compromise within network activity.
 
-Network Port Scan Analysis
+# Network Port Scan Analysis
 
 Investigation of exposed services and potential attack surfaces using network scanning techniques.
 
-Security Risk Assessment
+# Security Risk Assessment
 
 Evaluation of organizational assets, threats, vulnerabilities, and mitigation strategies.
 
-GDPR Security Compliance
+# GDPR Security Compliance
 
 Security assessment focusing on data protection and compliance with GDPR requirements.
+
 ---
 
 # Professional Experience
